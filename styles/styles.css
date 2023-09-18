@@ -18,3 +18,10 @@ h2 {
 a {
     color: #CC1C0D ;
 }
+
+img[src*='head_'] {
+    float: left;
+    border-radius: 50px;
+    border: 2px solid #CC1C0D;
+}
+

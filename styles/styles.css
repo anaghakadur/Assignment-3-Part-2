@@ -25,3 +25,30 @@ img[src*='head_'] {
     border: 2px solid #CC1C0D;
 }
 
+.pricing div:nth-child(1) {
+    float: left;
+    border: 1px solid #000000;
+    border-bottom: 1px solid #CC1C0D ;
+    border-radius: 10px;
+}
+
+.pricing div:nth-child(2) {
+    float: left;
+    border: 1px solid #000000;
+    border-bottom: 1px solid #CC1C0D ;
+    border-radius: 10px;
+}
+
+.pricing div:nth-child(3) {
+    float: left;
+    border: 1px solid #000000;
+    border-bottom: 1px solid #CC1C0D ;
+    border-radius: 10px;
+}
+
+.pricing div:nth-child(4) {
+    float: left;
+    border: 1px solid #000000;
+    border-bottom: 1px solid #CC1C0D ;
+    border-radius: 10px;
+}
